@@ -19,6 +19,9 @@ Maintain Knowledge graph Object predicate Object, Entity Relates Entity
 Problem: Triples lead to worse performance. Latency (Traverse the Graph) 
 
 Neo4J Fundamentals. (as knowledge needed for the Model Layer) 
+https://graphacademy.neo4j.com/certifications/genai-certification/ --> (Do this one)
+
+<CLAUDE CERTIFICATION> 
 
 Commonly speaking, 
 
